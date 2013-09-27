@@ -1,0 +1,2 @@
+This repository contains a tools for Twitter Sentiment Analysis. 
+We use the AFINN word-list to compute the sentiment score of the tweets.  
